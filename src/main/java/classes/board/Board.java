@@ -1,7 +1,5 @@
 package classes.board;
 
-import java.util.ArrayList;
-import javax.swing.*;
 import java.util.Random;
 
 public class Board {
